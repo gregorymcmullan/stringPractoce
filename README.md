@@ -1,1 +1,1 @@
-# stringPractoce
+# stringPractice
